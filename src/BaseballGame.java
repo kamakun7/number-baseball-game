@@ -2,6 +2,8 @@ import java.util.*;
 
 public class BaseballGame {
 
+    
+
     int[] randomnum = new int[3];
     Scanner scan = new Scanner(System.in);
 
